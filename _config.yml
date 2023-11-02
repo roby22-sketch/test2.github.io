@@ -28,9 +28,9 @@ twitter_username: YobRoung
 github_username:  roby210
 
 # Build settings
-remote_theme: jekyll-theme-hydeout
+remote_theme: fongandrew/hydeout
 plugins:
-  - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
