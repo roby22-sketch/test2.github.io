@@ -28,7 +28,7 @@ twitter_username: YobRoung
 github_username:  roby210
 
 # Build settings
-theme: jekyll-theme-hydeout
+theme: 'jekyll-theme-hydeout'
 plugins:
   - jekyll-feed
 
